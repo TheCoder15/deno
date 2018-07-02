@@ -70,6 +70,7 @@ Get [Depot Tools](http://commondatastorage.googleapis.com/chrome-infra-docs/flat
 You need [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
 
 You need [rust](https://www.rust-lang.org/en-US/install.html) installed.
+https://play.google.com/store/apps/details?id=com.braingames.brainiton.emoji
 
 You need [ccache](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/ccache) installed.
 
