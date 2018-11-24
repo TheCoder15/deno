@@ -62,7 +62,7 @@ I am excited about all the interest in this project. However, do understand that
 is very much a non-functional prototype. There's a huge amount of heavy lifting to do.
 Unless you are participating in that, please maintain radio silence on github. This
 includes submitting trivial PRs (like improving README build instructions).
-
+https://play.google.com/store/apps/details?id=com.smashthepuppetdoll.alphabetapost
 ## Compile instructions
 
 Get [Depot Tools](http://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up) and make sure it's in your path.
